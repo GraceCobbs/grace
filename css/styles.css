@@ -1,5 +1,5 @@
 body {
-  background-color: #aacfcf;
+  background-color: #084177;
 }
 
 hr {
@@ -16,12 +16,20 @@ img {
 }
 
 h1 {
-  color: #005082;
+  color: #00a8cc;
 
 }
 
 
 h3 {
- color: #005082;
+ color: #00a8cc;
 
+}
+
+p {
+  color: white;
+}
+
+li{
+  color: white;
 }
