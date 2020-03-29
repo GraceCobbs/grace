@@ -33,3 +33,10 @@ p {
 li{
   color: white;
 }
+
+a{
+  color: white;
+}
+a:hover{
+  color: aquamarine;
+}
